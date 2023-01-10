@@ -1,0 +1,182 @@
+@charset "utf-8";
+/* CSS Document */
+
+/*trang chu*/
+
+
+.topic01{
+	background-color:white;
+	height: 500px; 
+	top: 0px; right:0px;
+}
+
+.hinh-banh{
+	margin: 60px 60px;
+	float: left; left: 30px;
+}
+
+.logo-mini{
+	position: absolute;
+	left: 600px;
+	margin:0px ;
+	top:30px;
+	
+}
+.text01{
+	position: absolute;
+	right: 100px;
+	margin:0px ;
+	top:150px;
+	background-color: white;
+}
+
+.text01 h1{
+	font-size: 40px; 
+	float: left;
+ 
+  padding: 0 20px;
+}	
+.text01 p1{
+	margin: 1px;
+	font-family:  Georgia, "serif";
+	font-size: 14px;
+	
+}
+
+
+
+/*top-product*/
+.title01{
+	background-color:white;
+	height:50px;
+	right: 0;
+	top: 10px;
+	
+}
+.title01 h2{
+	font-family:  Georgia, "serif";
+	color: black; font-size: 34px;
+}
+.card {
+  box-shadow: 0 4px 8px 0 rgba(0,0,0,0.2);
+  transition: 0.2s;
+  width: 300px;
+
+}
+
+.card:hover {
+  box-shadow: 0 8px 16px 0 rgba(245,34,165,0.68);
+}
+
+.container {
+  padding: 2px 16px;
+  background:white; 
+
+}
+.text-primary{
+	color: black;
+}
+
+.banh-ngon011{
+ 	
+	top: 10px; 
+	
+}
+.banh-ngon011 img{
+	height: 300px; 
+}
+
+.banh-ngon012{
+	
+	top: 0px; left: 0px;
+
+}
+.banh-ngon012 img{
+	height: 300px; 
+}
+.banh-ngon013{
+	top: 10px; right: 0px;
+	
+}
+.banh-ngon013 img{
+	height: 300px;
+}
+.banh-ngon014{
+	top: 10px; left: 10px; right: 0px;
+	
+}
+.banh-ngon014 img{
+	height: 300px;
+}
+.banh-ngon015{
+	top: 50px; 
+	
+}
+.banh-ngon015 img{
+	height: 300px;
+}
+.banh-ngon016{
+	top: 50px;  
+	
+}
+.banh-ngon016 img{
+	height: 300px;
+}
+.banh-ngon017{
+	top: 50px; 
+	
+}
+.banh-ngon017 img{
+	height: 300px;
+}
+.banh-ngon018{
+	top: 50px; 
+	
+}
+.banh-ngon018 img{
+	height: 300px;
+}
+/*process*/
+.text-primary p5{
+	color: black; font-family: Consolas, 'Andale Mono', 'Lucida Console', 'Lucida Sans Typewriter', Monaco, 'Courier New', 'monospace';
+	font-size: 17px;
+	
+}
+
+/*bottom*/
+
+.img-bottom6{
+	margin: 0px;
+	height: 00px;
+}
+
+.infor{
+	background-color:rgba(0,0,0,0.66); 
+	padding: 85px ; height: 360px;
+	
+}
+.infor h6{color: white; font-size: 22px;}
+.infor-3 h7{ color: white; font-size: 22px;}
+.infor-2 h7{ color: white; font-size: 22px;}
+.infor p7{
+	color:pink;
+}
+.infor-2{
+	background-color:rgba(0,0,0,0.66); 
+	padding: 85px ; height: 360px;
+}
+.infor-2 p7{
+	color:pink;
+}
+.infor-3{
+	background-color:rgba(0,0,0,0.66); 
+	padding: 85px ; height: 360px;
+}
+.infor-3 p7{
+	color:pink; 
+}
+
+.text-center-footer{
+	padding: 0px; margin: 5px;
+}
+
